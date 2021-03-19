@@ -9,3 +9,10 @@
 Next day 2015.08.24 price growth 220.5 and after that never been less than 213.4   
 In this case hodler has lost 661 days, or 1.8 years. But how many maximum lost period of any btc hodler. This value is finite: 3.3863013698630136 so many years has wait the most unfortunate btc hodler bought 2013.11.29 at 1206.9 After 3.4 years he get a profit. And no one wait longer.   
 3.38 is hodler-index-positive of btc
+
+### Also
+Having hodler index we can calculate:
+1. Median profit of 3.4 years hodling
+2. Clustering of last_long_lost to obtain most frequent lost_long periods
+3. Ratio: hodler-index-positive / hodler-index-negative
+And then compare goods on the stock to evaluate investment attractive
