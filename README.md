@@ -14,6 +14,7 @@ In this case hodler has lost 661 days, or 1.8 years. But how many maximum lost p
 Having hodler index we can calculate:
 1. Median profit of 3.4 years hodling
 2. Clustering of last_long_lost to obtain most frequent lost_long periods
-3. Ratio: hodler-index-positive / hodler-index-negative   
+3. growth of hodler index
+4. Ratio: hodler-index-positive / hodler-index-negative   
    
 And then compare goods on the stock to evaluate investment attractive
