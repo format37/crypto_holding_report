@@ -1,5 +1,5 @@
 ## Hodler index
-1. Get a table with periodic date and price of currency.   
+1. Get a table with periodic Date and Price of currency.   
 2. Calculate column last_long_lost, how many days that date hodler has wait until last lost.   
 3. Get maximum of last_long_lost - that is Hodler index positive.   
 4. Calculate negative (short) index the same. maximum of last_short_lost is Hodler index negative.   
